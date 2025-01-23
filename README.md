@@ -1,4 +1,4 @@
 # newdemo
-<h1>this is my first git and githup class</h1> 
+<p>this is my first git and githup class<p> 
 <br>
-mentore Ms duaa iqbal
+# mentore Ms duaa iqbal
